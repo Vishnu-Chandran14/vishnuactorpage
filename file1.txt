@@ -1,0 +1,1 @@
+print is method to show the output in programming
